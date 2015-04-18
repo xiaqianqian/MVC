@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<custoers>
+	<customer id="1001">
+	    <name>Tom</name>
+	    <address>ChangSha</address>
+	    <phone>1232435</phone>
+	</customer>
+</custoers>
